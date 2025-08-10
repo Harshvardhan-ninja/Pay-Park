@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SmartParking</string>
+    <string name="back_button_desc"> Back</string>
+    <string name="bookings_payments_title">Bookings &amp; Payments</string>
+    <string name="help_title">Help &amp; About Us</string>
+    <string name="logout_title">Logout</string>
+    <string name="settings_title">Settings</string>
+    <string name="help_about_title">Help &amp; About Us</string>
+    <string name="help_about_message">Smart Parking App v%s\n\nFor assistance:\n• Call: 1800-PARKING\n• Email: help@smartparking.com\n\n© 2023 Smart Parking Solutions</string>
+    <string name="error_loading_info">Error loading application info</string>
+    <string name="logout_confirmation">Are you sure you want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="book_slot_format">Book Slot %s</string>
+    <!-- Add this -->
+
+    <string name="login_hint_username">Username</string>
+        <string name="login_hint_password">Password</string>
+        <string name="login_button">LOGIN</string>
+
+</resources>

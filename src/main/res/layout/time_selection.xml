@@ -1,0 +1,58 @@
+<!-- res/layout/your_layout.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginBottom="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Choose Duration (minutes)"
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn10min"
+            style="@style/TimeButtonStyle"
+            android:text="10"/>
+
+        <Button
+            android:id="@+id/btn20min"
+            style="@style/TimeButtonStyle"
+            android:text="20"/>
+
+        <Button
+            android:id="@+id/btn30min"
+            style="@style/TimeButtonStyle"
+            android:text="30"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp">
+
+        <Button
+            android:id="@+id/btn40min"
+            style="@style/TimeButtonStyle"
+            android:text="40"/>
+
+        <Button
+            android:id="@+id/btn50min"
+            style="@style/TimeButtonStyle"
+            android:text="50"/>
+
+        <Button
+            android:id="@+id/btn60min"
+            style="@style/TimeButtonStyle"
+            android:text="60"/>
+    </LinearLayout>
+</LinearLayout>

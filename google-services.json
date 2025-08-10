@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545122000619",
+    "firebase_url": "https://smartparking-cedb4-default-rtdb.firebaseio.com",
+    "project_id": "smartparking-cedb4",
+    "storage_bucket": "smartparking-cedb4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545122000619:android:d33f7708172bfdb5f268ae",
+        "android_client_info": {
+          "package_name": "com.example.smartparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545122000619-l0pal5r98ln3dosi9279h5uuj1ga22ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ-ykyHAmCnaNysJtC1kQYOUECQqRkWRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545122000619-l0pal5r98ln3dosi9279h5uuj1ga22ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
